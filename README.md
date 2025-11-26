@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Brian Curry**  
 Founder, Vector1 AI Economics Lab  
-Email: brian@vector1.ai  
+Email: brian at vector1.ai  
 Website: [https://vector1.ai](https://vector1.ai)  
 Medium: [@brian-curry-research](https://medium.com/@brian-curry-research)
 
