@@ -1,0 +1,37 @@
+# Core dependencies
+numpy>=1.20.0
+python-dateutil>=2.8.0
+
+# Optional: Embedding models
+sentence-transformers>=2.2.0
+transformers>=4.20.0
+
+# Optional: Vector databases
+weaviate-client>=3.18.0
+qdrant-client>=1.1.0
+
+# Optional: Graph databases
+neo4j>=5.5.0
+networkx>=3.0
+
+# Optional: NLP and sentiment analysis
+nltk>=3.8
+vaderSentiment>=3.3.2
+textblob>=0.17.0
+
+# Optional: Visualization
+matplotlib>=3.5.0
+plotly>=5.10.0
+
+# Development dependencies
+pytest>=7.2.0
+pytest-cov>=4.0.0
+black>=22.10.0
+flake8>=6.0.0
+mypy>=0.990
+sphinx>=5.3.0
+
+# Utilities
+pydantic>=2.0.0
+pyyaml>=6.0
+tqdm>=4.64.0
