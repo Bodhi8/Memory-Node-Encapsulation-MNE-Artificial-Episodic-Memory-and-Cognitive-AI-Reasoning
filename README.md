@@ -170,7 +170,7 @@ plan = memory_system.plan_action(
 # Returns: "use_pot_holder" (highest utility, prevents pain)
 ```
 
-## 📊 Experimental Results
+##  Experimental Results
 
 Comparison against traditional RAG systems:
 
