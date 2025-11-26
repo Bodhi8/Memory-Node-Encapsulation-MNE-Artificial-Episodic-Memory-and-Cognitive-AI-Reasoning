@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research](https://img.shields.io/badge/Research-Vector1%20Lab-green.svg)](https://vector1.ai/)
 
-## 🧠 Overview
+##  Overview
 
 **Memory-Node Encapsulation (MNE)** is a revolutionary data structure that enables artificial intelligence systems to develop genuine episodic memory—the ability to remember and learn from lived experiences. Unlike traditional RAG systems that fragment memories into text chunks, or embeddings that compress meaning while discarding context, MNE captures **complete experiential memories** as multidimensional objects.
 
@@ -13,7 +13,7 @@
 
 This repository contains the research, implementation, and tools for building memory-driven cognitive AI systems using MNE and the NeoCortex-M architecture.
 
-## 🎯 Key Features
+##  Key Features
 
 - **Holistic Experience Capture**: Store complete memories with sensory data, emotional weight, temporal context, and relational links
 - **Emotional Weighting**: Prioritize important memories based on emotional significance
@@ -23,7 +23,7 @@ This repository contains the research, implementation, and tools for building me
 - **Autobiographical Causality**: Learn causal relationships through direct experience rather than statistical inference
 - **Cognitive Retrieval**: Relevance-weighted memory access that mimics human recall
 
-## 📚 Research Papers
+##  Research Papers
 
 This project is based on a series of research papers:
 
@@ -39,7 +39,7 @@ This project is based on a series of research papers:
 4. **[Implementation Guide and Best Practices](papers/04_Implementation_Guide.md)** *(Coming Soon)*  
    *Practical guidance for deploying MNE systems in production*
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────┐
@@ -89,7 +89,7 @@ This project is based on a series of research papers:
 └─────────────────────────────────────┘
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -181,7 +181,7 @@ Comparison against traditional RAG systems:
 | Zero-Shot Learning | 6% | 74% | +68% |
 | Reasoning Explanation | 0% | 63% | +63% |
 
-## 🧬 Core Data Structure
+##  Core Data Structure
 
 ```python
 @dataclass
@@ -217,7 +217,7 @@ class MemoryNodeEncapsulation:
     integration_score: float
 ```
 
-## 🔬 Use Cases
+##  Use Cases
 
 1. **Personal AI Assistants**: True preference learning and personalization
 2. **Healthcare AI**: Patient history with emotional context and causal understanding
@@ -226,7 +226,7 @@ class MemoryNodeEncapsulation:
 5. **Research Assistants**: Scientific reasoning grounded in accumulated knowledge
 6. **Customer Service**: Context-aware support that remembers user history
 
-## 📖 Documentation
+##  Documentation
 
 - [Installation Guide](docs/installation.md)
 - [API Reference](docs/api_reference.md)
@@ -236,7 +236,7 @@ class MemoryNodeEncapsulation:
 - [Best Practices](docs/best_practices.md)
 - [Contributing](CONTRIBUTING.md)
 
-## 🛠️ Development Roadmap
+##  Development Roadmap
 
 ### Phase 1: Core Implementation (Current)
 - [x] Basic MNE data structure
@@ -258,7 +258,7 @@ class MemoryNodeEncapsulation:
 - [ ] Biological validation experiments
 - [ ] AGI integration research
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -270,7 +270,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - **Research**: Experimental validation, benchmarking
 - **Testing**: Unit tests, integration tests, performance tests
 
-## 📝 Citation
+##  Citation
 
 If you use MNE in your research, please cite:
 
@@ -291,18 +291,18 @@ If you use MNE in your research, please cite:
 }
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Vector1 AI Economics Lab for supporting this research
 - The open-source community for tools including Weaviate, NetworkX, and the broader AI ecosystem
 - The neuroscience community for insights into biological memory consolidation
 - Early adopters and contributors who are helping shape this framework
 
-## 📞 Contact
+##  Contact
 
 **Brian Curry**  
 Founder, Vector1 AI Economics Lab  
@@ -310,7 +310,7 @@ Email: brian@vector1.ai
 Website: [https://vector1.ai](https://vector1.ai)  
 Medium: [@brian-curry-research](https://medium.com/@brian-curry-research)
 
-## ⭐ Star History
+##  Star History
 
 If you find MNE useful, please consider starring the repository to help others discover it!
 
